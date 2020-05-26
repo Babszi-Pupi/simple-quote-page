@@ -1,11 +1,22 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title></title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
+body {
+  background: url('assets/freedom.jpg') no-repeat center/cover;
+  width: 100%;
+  height: 100vh;
+  color: #333;
+}
 
-</body>
-</html>
+.háttér {
+  text-align: center;
+  padding: 10rem;
+}
+
+.idézet {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.4rem;
+}
+
+.szerző {
+  font-family: 'Crimson Text', serif;
+  font-style: italic;
+  font-size: 1.3rem  
+}
